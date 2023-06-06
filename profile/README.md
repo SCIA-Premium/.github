@@ -11,7 +11,7 @@
 
 Welcome to the ***SCIA Premium*** GitHub Organization, where machine learning and data science enthusiasts come together to create cutting-edge projects that push the limits of what's possible. Our team of talented students from **EPITA**, one of France's top engineering schools, is dedicated to exploring the latest advancements in the field.
 
-From  GoRaft, a repository that implements the RAFT consensus algorithm, to SYMUA, a Pedestrian flow simulation represented as a multi-agent system and made with python and the library CrowdDynamics, our projects showcase the power of deep learning. We even have a solver for the challenging Tetravex puzzle using the **Metropolis-**Hastings simulated annealing algorithm in C++!
+From  GoRaft, a repository that implements the RAFT consensus algorithm, to SYMUA, a Pedestrian flow simulation represented as a multi-agent system and made with python and the library CrowdDynamics, our projects showcase the power of deep learning. We even have a solver for the challenging Tetravex puzzle using the Metropolis-Hastings simulated annealing algorithm in C++!
 
 Our team is also passionate about exploring the **theoretical fundamentals** of machine learning, with repositories such as Gradient_Descent and SVM-101. And when it comes to applying these techniques to real-world datasets, our team is second to none, with projects such as RecSys_2022 and DNN.
 
